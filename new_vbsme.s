@@ -2,9 +2,10 @@
 #  Team Members: Angel Perez, Wesley Newman, Juan Campista    
 #  % Effort: 33%, 33%, 33%   
 #
-#  New vbsme, we removed the stack and freed multiple registers. This implementation does not work at the moment... somethings wrong with the pattern search   
+#  New vbsme, we removed the stack and freed multiple registers. This implementation does not work at the moment as the new SAD works with the old seach pattern 
+#  ... but somethings wrong with the new pattern search, looked over multiple times and I can't find the bug.
 #
-# ECE369A,  
+# ECE369A
 # 
 ########################################################################################################################
 ### data
